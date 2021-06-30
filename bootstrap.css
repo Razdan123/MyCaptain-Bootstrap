@@ -1,0 +1,23 @@
+body{
+    background: url(https://coolbackgrounds.io/images/backgrounds/white/white-unsplash-9d0375d2.jpg);
+    margin: 0%;
+    padding: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav-item{
+    font-size: 18px;
+}
+h1{
+    background:white;
+    text-align: center;
+    font-family: monospace;
+}
+
+.container-sm{
+    margin-top: 3%;
+}
+.text-muted{
+    padding: 10%;
+}
